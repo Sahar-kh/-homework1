@@ -9,4 +9,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 ##Description
 
- Open Source Energy System Modeling homework1(SS2020)
+Open Source Energy System Modeling homework1(SS2020)
+Add simple funktions in Python and try it to pull in Github 
+importent Points : bei Travis CI (has Errors)
+it is rejected because my file name was not same as .travis.yml and has errors because the Spaces in text were wrong 
